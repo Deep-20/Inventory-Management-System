@@ -25,6 +25,10 @@ The application uses MySQL as the database.
 - **Lombok**: Reduces boilerplate code in Java classes.
 
 ---
+# Pre-requisites
+1. Java
+2. Maven
+3. MySQL Server
 
 # Setup Instructions
 
@@ -57,6 +61,10 @@ Navigate to the project directory:
 ## Run the application:
 
     mvn spring-boot:run
+
+### OR 
+
+Open the project in IntelliJ IDEA and run the project
     
 The application will be accessible at http://localhost:8080.
 
