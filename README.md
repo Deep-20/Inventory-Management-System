@@ -54,9 +54,8 @@ Navigate to the project directory:
       spring.datasource.url=jdbc:mysql://localhost:3306/inventory 
        
    2. Update the username and password with your credentials
-      spring.datasource.username=<your-username>
-   
-      spring.datasource.password=<your-password>
+       1. spring.datasource.username=<your-username>
+       2. spring.datasource.password=<your-password>
 
 ## Run the application:
 
